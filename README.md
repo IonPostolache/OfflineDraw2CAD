@@ -1,5 +1,10 @@
 # OfflineDraw2CAD
 
+
+## Project stopped after noticed other similar projects like https://www.omnieda.com/mech/
+
+
+
 **A free, fully local tool that turns a 2D engineering drawing into a
 complete, editable 3D CAD model — flagging every assumption it had to make
 — plus an honest benchmark of how well current free/local AI models
