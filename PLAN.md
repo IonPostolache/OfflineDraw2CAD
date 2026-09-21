@@ -410,3 +410,28 @@ should be labeled as such wherever it's reported.
   a custom vectorizer first.
 - **Refuse-if-unsure as the operating principle** — rejected; see "Core
   principle," above.
+
+  ## ===================================================
+
+  What your data tells us
+
+You have:
+
+630,364 SVG files
+157,591 .npy vector files
+4 SVG views per CAD object in the example:
+Front
+Top
+Right
+FrontTopRight
+
+What we now know
+There are 157,591 CAD objects.
+Each object has exactly 4 SVG views:
+Front
+Top
+Right
+FrontTopRight
+There are no <text> elements in the 0090 subset.
+Your search also found no <circle>, <polygon>, or <polyline> there.
+The richer candidate 00905686_Front.svg has 10 <path> elements, but that still does not mean it contains dimensions/annotations.

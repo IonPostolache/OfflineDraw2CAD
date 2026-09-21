@@ -54,7 +54,6 @@ prof/
 
 
 *.pyc
-*.egg-info/
 
 # Data (never commit datasets or generated models)
 data/
@@ -65,5 +64,11 @@ datasets/
 *.iges
 *.igs
 *.brep
+*.h5
+*.svg
+*.npy
+*.json
+*.zip
+
 
 
